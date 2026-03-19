@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AppHub.Core/AppHub.Core.csproj" />
+  <Project Path="AppHub.Infrastructure/AppHub.Infrastructure.csproj" />
+  <Project Path="AppHub.SharedKernel/AppHub.SharedKernel.csproj" />
+  <Project Path="AppHub.WebApi/AppHub.WebApi.csproj" />
+</Solution>
