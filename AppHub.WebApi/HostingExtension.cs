@@ -45,13 +45,13 @@ public static class HostingExtension
     builder.Services.AddCors(options => options.AddPolicy(CorsPolicy, builder => builder.WithOrigins(identityServerSettings.AllowedOrigins).AllowAnyHeader().AllowAnyMethod()));
 
 
-   // builder.Services.AddCors(options => options.AddPolicy(CorsPolicy, builder => builder.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod()));
-   // Add Authorization Policies
-   //  builder.Services.ConfigureAuthorizationPolicies();
+        // builder.Services.AddCors(options => options.AddPolicy(CorsPolicy, builder => builder.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod()));
+        // Add Authorization Policies
+        //  builder.Services.ConfigureAuthorizationPolicies();
 
-
-   // Adding Authentication
-    builder.Services.AddAuthentication(options =>
+        builder.WebHost.UseUrls("http://0.0.0.0:80");
+        // Adding Authentication
+        builder.Services.AddAuthentication(options =>
     {
       options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
       options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
@@ -89,9 +89,9 @@ public static class HostingExtension
     builder.Services.AddControllers().AddNewtonsoftJson();
 
     builder.Services.AddEndpointsApiExplorer();
-
-   // builder.Services.AddSwaggerGen();
-    RegisterDocumentationGenerators(builder.Services);
+        builder.Services.AddSwaggerGen();
+        // builder.Services.AddSwaggerGen();
+        RegisterDocumentationGenerators(builder.Services);
 
     return builder.Build();
   }
