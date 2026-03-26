@@ -1,0 +1,49 @@
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Infrastructure\bin\Debug\net8.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Infrastructure\bin\Debug\net8.0\Cosmos.CRTCompat.dll
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Infrastructure\bin\Debug\net8.0\msvcp140.dll
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Infrastructure\bin\Debug\net8.0\vcruntime140.dll
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Infrastructure\bin\Debug\net8.0\vcruntime140_1.dll
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Infrastructure\bin\Debug\net8.0\AppHub.Infrastructure.deps.json
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Infrastructure\bin\Debug\net8.0\AppHub.Infrastructure.runtimeconfig.json
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Infrastructure\bin\Debug\net8.0\AppHub.Infrastructure.dll
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Infrastructure\bin\Debug\net8.0\AppHub.Infrastructure.pdb
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Infrastructure\bin\Debug\net8.0\AppHub.Core.dll
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Infrastructure\bin\Debug\net8.0\AppHub.SharedKernel.dll
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Infrastructure\bin\Debug\net8.0\AppHub.Core.pdb
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Infrastructure\bin\Debug\net8.0\AppHub.SharedKernel.pdb
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Infrastructure\obj\Debug\net8.0\AppHub.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Infrastructure\obj\Debug\net8.0\AppHub.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Infrastructure\obj\Debug\net8.0\AppHub.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Infrastructure\obj\Debug\net8.0\AppHub.Infrastructure.AssemblyInfo.cs
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Infrastructure\obj\Debug\net8.0\AppHub.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Infrastructure\obj\Debug\net8.0\AppHub.I.78E8ACED.Up2Date
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Infrastructure\obj\Debug\net8.0\AppHub.Infrastructure.dll
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Infrastructure\obj\Debug\net8.0\refint\AppHub.Infrastructure.dll
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Infrastructure\obj\Debug\net8.0\AppHub.Infrastructure.pdb
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Infrastructure\obj\Debug\net8.0\AppHub.Infrastructure.genruntimeconfig.cache
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Infrastructure\obj\Debug\net8.0\ref\AppHub.Infrastructure.dll
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Infrastructure\bin\Debug\net8.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Infrastructure\bin\Debug\net8.0\Cosmos.CRTCompat.dll
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Infrastructure\bin\Debug\net8.0\msvcp140.dll
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Infrastructure\bin\Debug\net8.0\vcruntime140.dll
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Infrastructure\bin\Debug\net8.0\vcruntime140_1.dll
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Infrastructure\bin\Debug\net8.0\AppHub.Infrastructure.deps.json
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Infrastructure\bin\Debug\net8.0\AppHub.Infrastructure.runtimeconfig.json
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Infrastructure\bin\Debug\net8.0\AppHub.Infrastructure.dll
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Infrastructure\bin\Debug\net8.0\AppHub.Infrastructure.pdb
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Infrastructure\bin\Debug\net8.0\AppHub.Core.dll
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Infrastructure\bin\Debug\net8.0\AppHub.SharedKernel.dll
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Infrastructure\bin\Debug\net8.0\AppHub.Core.pdb
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Infrastructure\bin\Debug\net8.0\AppHub.SharedKernel.pdb
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Infrastructure\obj\Debug\net8.0\AppHub.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Infrastructure\obj\Debug\net8.0\AppHub.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Infrastructure\obj\Debug\net8.0\AppHub.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Infrastructure\obj\Debug\net8.0\AppHub.Infrastructure.AssemblyInfo.cs
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Infrastructure\obj\Debug\net8.0\AppHub.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Infrastructure\obj\Debug\net8.0\AppHub.Infrastructure.sourcelink.json
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Infrastructure\obj\Debug\net8.0\AppHub.I.78E8ACED.Up2Date
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Infrastructure\obj\Debug\net8.0\AppHub.Infrastructure.dll
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Infrastructure\obj\Debug\net8.0\refint\AppHub.Infrastructure.dll
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Infrastructure\obj\Debug\net8.0\AppHub.Infrastructure.pdb
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Infrastructure\obj\Debug\net8.0\AppHub.Infrastructure.genruntimeconfig.cache
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Infrastructure\obj\Debug\net8.0\ref\AppHub.Infrastructure.dll

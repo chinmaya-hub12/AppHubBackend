@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+  </Configurations>
+  <Project Path="AppHub.WebApi/AppHub.WebApi/AppHub.WebApi.csproj" />
+  <Project Path="AppHub.WebApi/AppHub.Core/AppHub.Core.csproj" />
+  <Project Path="AppHub.WebApi/AppHub.Infrastructure/AppHub.Infrastructure.csproj" />
+  <Project Path="AppHub.WebApi/AppHub.SharedKernel/AppHub.SharedKernel.csproj" />
+  <Project Path="AppHub.Auth.Service/AppHub.Auth.Service.csproj" />
+</Solution>

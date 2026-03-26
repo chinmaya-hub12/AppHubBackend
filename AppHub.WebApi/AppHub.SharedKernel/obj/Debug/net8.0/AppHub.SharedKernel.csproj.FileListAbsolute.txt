@@ -1,0 +1,25 @@
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.SharedKernel\bin\Debug\net8.0\AppHub.SharedKernel.deps.json
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.SharedKernel\bin\Debug\net8.0\AppHub.SharedKernel.dll
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.SharedKernel\bin\Debug\net8.0\AppHub.SharedKernel.pdb
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.SharedKernel\obj\Debug\net8.0\AppHub.SharedKernel.csproj.AssemblyReference.cache
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.SharedKernel\obj\Debug\net8.0\AppHub.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.SharedKernel\obj\Debug\net8.0\AppHub.SharedKernel.AssemblyInfoInputs.cache
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.SharedKernel\obj\Debug\net8.0\AppHub.SharedKernel.AssemblyInfo.cs
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.SharedKernel\obj\Debug\net8.0\AppHub.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.SharedKernel\obj\Debug\net8.0\AppHub.SharedKernel.dll
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.SharedKernel\obj\Debug\net8.0\refint\AppHub.SharedKernel.dll
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.SharedKernel\obj\Debug\net8.0\AppHub.SharedKernel.pdb
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.SharedKernel\obj\Debug\net8.0\ref\AppHub.SharedKernel.dll
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.SharedKernel\bin\Debug\net8.0\AppHub.SharedKernel.deps.json
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.SharedKernel\bin\Debug\net8.0\AppHub.SharedKernel.dll
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.SharedKernel\bin\Debug\net8.0\AppHub.SharedKernel.pdb
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.SharedKernel\obj\Debug\net8.0\AppHub.SharedKernel.csproj.AssemblyReference.cache
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.SharedKernel\obj\Debug\net8.0\AppHub.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.SharedKernel\obj\Debug\net8.0\AppHub.SharedKernel.AssemblyInfoInputs.cache
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.SharedKernel\obj\Debug\net8.0\AppHub.SharedKernel.AssemblyInfo.cs
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.SharedKernel\obj\Debug\net8.0\AppHub.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.SharedKernel\obj\Debug\net8.0\AppHub.SharedKernel.sourcelink.json
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.SharedKernel\obj\Debug\net8.0\AppHub.SharedKernel.dll
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.SharedKernel\obj\Debug\net8.0\refint\AppHub.SharedKernel.dll
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.SharedKernel\obj\Debug\net8.0\AppHub.SharedKernel.pdb
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.SharedKernel\obj\Debug\net8.0\ref\AppHub.SharedKernel.dll

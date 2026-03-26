@@ -1,0 +1,912 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|solutionrelative:apphub.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.webapi\\hostingextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|solutionrelative:apphub.webapi\\hostingextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.webapi\\services\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|solutionrelative:apphub.webapi\\services\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|solutionrelative:Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.webapi\\extensions\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|solutionrelative:apphub.webapi\\extensions\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.webapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|solutionrelative:apphub.webapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.webapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|solutionrelative:apphub.webapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.webapi\\config\\identityserversetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|solutionrelative:apphub.webapi\\config\\identityserversetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D0A69A-341B-5C0F-D2AF-71EFCB3792A9}|AppHub.SharedKernel\\AppHub.SharedKernel.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.sharedkernel\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D0A69A-341B-5C0F-D2AF-71EFCB3792A9}|AppHub.SharedKernel\\AppHub.SharedKernel.csproj|solutionrelative:apphub.sharedkernel\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.webapi\\apphub.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|solutionrelative:apphub.webapi\\apphub.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D0A69A-341B-5C0F-D2AF-71EFCB3792A9}|AppHub.SharedKernel\\AppHub.SharedKernel.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.sharedkernel\\ignorememberattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D0A69A-341B-5C0F-D2AF-71EFCB3792A9}|AppHub.SharedKernel\\AppHub.SharedKernel.csproj|solutionrelative:apphub.sharedkernel\\ignorememberattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D0A69A-341B-5C0F-D2AF-71EFCB3792A9}|AppHub.SharedKernel\\AppHub.SharedKernel.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.sharedkernel\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D0A69A-341B-5C0F-D2AF-71EFCB3792A9}|AppHub.SharedKernel\\AppHub.SharedKernel.csproj|solutionrelative:apphub.sharedkernel\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D0A69A-341B-5C0F-D2AF-71EFCB3792A9}|AppHub.SharedKernel\\AppHub.SharedKernel.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.sharedkernel\\basedomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D0A69A-341B-5C0F-D2AF-71EFCB3792A9}|AppHub.SharedKernel\\AppHub.SharedKernel.csproj|solutionrelative:apphub.sharedkernel\\basedomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D0A69A-341B-5C0F-D2AF-71EFCB3792A9}|AppHub.SharedKernel\\AppHub.SharedKernel.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.sharedkernel\\utility\\externalhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D0A69A-341B-5C0F-D2AF-71EFCB3792A9}|AppHub.SharedKernel\\AppHub.SharedKernel.csproj|solutionrelative:apphub.sharedkernel\\utility\\externalhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D0A69A-341B-5C0F-D2AF-71EFCB3792A9}|AppHub.SharedKernel\\AppHub.SharedKernel.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.sharedkernel\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D0A69A-341B-5C0F-D2AF-71EFCB3792A9}|AppHub.SharedKernel\\AppHub.SharedKernel.csproj|solutionrelative:apphub.sharedkernel\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D0A69A-341B-5C0F-D2AF-71EFCB3792A9}|AppHub.SharedKernel\\AppHub.SharedKernel.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.sharedkernel\\interfaces\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D0A69A-341B-5C0F-D2AF-71EFCB3792A9}|AppHub.SharedKernel\\AppHub.SharedKernel.csproj|solutionrelative:apphub.sharedkernel\\interfaces\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D0A69A-341B-5C0F-D2AF-71EFCB3792A9}|AppHub.SharedKernel\\AppHub.SharedKernel.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.sharedkernel\\interfaces\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D0A69A-341B-5C0F-D2AF-71EFCB3792A9}|AppHub.SharedKernel\\AppHub.SharedKernel.csproj|solutionrelative:apphub.sharedkernel\\interfaces\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E85FB9-51E9-1107-9041-E21AEEDBEF5F}|AppHub.Infrastructure\\AppHub.Infrastructure.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.infrastructure\\startupsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E85FB9-51E9-1107-9041-E21AEEDBEF5F}|AppHub.Infrastructure\\AppHub.Infrastructure.csproj|solutionrelative:apphub.infrastructure\\startupsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E85FB9-51E9-1107-9041-E21AEEDBEF5F}|AppHub.Infrastructure\\AppHub.Infrastructure.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.infrastructure\\data\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E85FB9-51E9-1107-9041-E21AEEDBEF5F}|AppHub.Infrastructure\\AppHub.Infrastructure.csproj|solutionrelative:apphub.infrastructure\\data\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E85FB9-51E9-1107-9041-E21AEEDBEF5F}|AppHub.Infrastructure\\AppHub.Infrastructure.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E85FB9-51E9-1107-9041-E21AEEDBEF5F}|AppHub.Infrastructure\\AppHub.Infrastructure.csproj|solutionrelative:apphub.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E85FB9-51E9-1107-9041-E21AEEDBEF5F}|AppHub.Infrastructure\\AppHub.Infrastructure.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.infrastructure\\concrete\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E85FB9-51E9-1107-9041-E21AEEDBEF5F}|AppHub.Infrastructure\\AppHub.Infrastructure.csproj|solutionrelative:apphub.infrastructure\\concrete\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E85FB9-51E9-1107-9041-E21AEEDBEF5F}|AppHub.Infrastructure\\AppHub.Infrastructure.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.infrastructure\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E85FB9-51E9-1107-9041-E21AEEDBEF5F}|AppHub.Infrastructure\\AppHub.Infrastructure.csproj|solutionrelative:apphub.infrastructure\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E85FB9-51E9-1107-9041-E21AEEDBEF5F}|AppHub.Infrastructure\\AppHub.Infrastructure.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.infrastructure\\abstract\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E85FB9-51E9-1107-9041-E21AEEDBEF5F}|AppHub.Infrastructure\\AppHub.Infrastructure.csproj|solutionrelative:apphub.infrastructure\\abstract\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B33207-EDD6-CF9B-D7BE-B04D9AD43234}|AppHub.Core\\AppHub.Core.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.core\\utility\\resultt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B33207-EDD6-CF9B-D7BE-B04D9AD43234}|AppHub.Core\\AppHub.Core.csproj|solutionrelative:apphub.core\\utility\\resultt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B33207-EDD6-CF9B-D7BE-B04D9AD43234}|AppHub.Core\\AppHub.Core.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.core\\utility\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B33207-EDD6-CF9B-D7BE-B04D9AD43234}|AppHub.Core\\AppHub.Core.csproj|solutionrelative:apphub.core\\utility\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B33207-EDD6-CF9B-D7BE-B04D9AD43234}|AppHub.Core\\AppHub.Core.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.core\\utility\\applicationclaims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B33207-EDD6-CF9B-D7BE-B04D9AD43234}|AppHub.Core\\AppHub.Core.csproj|solutionrelative:apphub.core\\utility\\applicationclaims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B33207-EDD6-CF9B-D7BE-B04D9AD43234}|AppHub.Core\\AppHub.Core.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.core\\enum\\applicationuserroleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B33207-EDD6-CF9B-D7BE-B04D9AD43234}|AppHub.Core\\AppHub.Core.csproj|solutionrelative:apphub.core\\enum\\applicationuserroleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B33207-EDD6-CF9B-D7BE-B04D9AD43234}|AppHub.Core\\AppHub.Core.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.core\\enum\\applicationuserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B33207-EDD6-CF9B-D7BE-B04D9AD43234}|AppHub.Core\\AppHub.Core.csproj|solutionrelative:apphub.core\\enum\\applicationuserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B33207-EDD6-CF9B-D7BE-B04D9AD43234}|AppHub.Core\\AppHub.Core.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.core\\apiresponse\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B33207-EDD6-CF9B-D7BE-B04D9AD43234}|AppHub.Core\\AppHub.Core.csproj|solutionrelative:apphub.core\\apiresponse\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.webapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|solutionrelative:apphub.webapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|solutionrelative:apphub.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B33207-EDD6-CF9B-D7BE-B04D9AD43234}|AppHub.Core\\AppHub.Core.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.core\\apphub.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{94B33207-EDD6-CF9B-D7BE-B04D9AD43234}|AppHub.Core\\AppHub.Core.csproj|solutionrelative:apphub.core\\apphub.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.webapi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|solutionrelative:apphub.webapi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D0A69A-341B-5C0F-D2AF-71EFCB3792A9}|AppHub.SharedKernel\\AppHub.SharedKernel.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.sharedkernel\\apphub.sharedkernel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{07D0A69A-341B-5C0F-D2AF-71EFCB3792A9}|AppHub.SharedKernel\\AppHub.SharedKernel.csproj|solutionrelative:apphub.sharedkernel\\apphub.sharedkernel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E85FB9-51E9-1107-9041-E21AEEDBEF5F}|AppHub.Infrastructure\\AppHub.Infrastructure.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.infrastructure\\apphub.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{73E85FB9-51E9-1107-9041-E21AEEDBEF5F}|AppHub.Infrastructure\\AppHub.Infrastructure.csproj|solutionrelative:apphub.infrastructure\\apphub.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.webapi\\extensions\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|solutionrelative:apphub.webapi\\extensions\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.webapi\\extensions\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|solutionrelative:apphub.webapi\\extensions\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.webapi\\extensions\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|solutionrelative:apphub.webapi\\extensions\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B33207-EDD6-CF9B-D7BE-B04D9AD43234}|AppHub.Core\\AppHub.Core.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.core\\utility\\httpcontexthelperextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B33207-EDD6-CF9B-D7BE-B04D9AD43234}|AppHub.Core\\AppHub.Core.csproj|solutionrelative:apphub.core\\utility\\httpcontexthelperextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B33207-EDD6-CF9B-D7BE-B04D9AD43234}|AppHub.Core\\AppHub.Core.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.core\\utility\\httpcontexthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B33207-EDD6-CF9B-D7BE-B04D9AD43234}|AppHub.Core\\AppHub.Core.csproj|solutionrelative:apphub.core\\utility\\httpcontexthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|solutionrelative:apphub.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.webapi\\apphub.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|solutionrelative:apphub.webapi\\apphub.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B33207-EDD6-CF9B-D7BE-B04D9AD43234}|AppHub.Core\\AppHub.Core.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.core\\entity\\sp_userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B33207-EDD6-CF9B-D7BE-B04D9AD43234}|AppHub.Core\\AppHub.Core.csproj|solutionrelative:apphub.core\\entity\\sp_userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E85FB9-51E9-1107-9041-E21AEEDBEF5F}|AppHub.Infrastructure\\AppHub.Infrastructure.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.infrastructure\\concrete\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E85FB9-51E9-1107-9041-E21AEEDBEF5F}|AppHub.Infrastructure\\AppHub.Infrastructure.csproj|solutionrelative:apphub.infrastructure\\concrete\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E85FB9-51E9-1107-9041-E21AEEDBEF5F}|AppHub.Infrastructure\\AppHub.Infrastructure.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.infrastructure\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E85FB9-51E9-1107-9041-E21AEEDBEF5F}|AppHub.Infrastructure\\AppHub.Infrastructure.csproj|solutionrelative:apphub.infrastructure\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B33207-EDD6-CF9B-D7BE-B04D9AD43234}|AppHub.Core\\AppHub.Core.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.core\\enum\\resultstatustype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B33207-EDD6-CF9B-D7BE-B04D9AD43234}|AppHub.Core\\AppHub.Core.csproj|solutionrelative:apphub.core\\enum\\resultstatustype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B33207-EDD6-CF9B-D7BE-B04D9AD43234}|AppHub.Core\\AppHub.Core.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.core\\dto\\applicationuserroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B33207-EDD6-CF9B-D7BE-B04D9AD43234}|AppHub.Core\\AppHub.Core.csproj|solutionrelative:apphub.core\\dto\\applicationuserroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B33207-EDD6-CF9B-D7BE-B04D9AD43234}|AppHub.Core\\AppHub.Core.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.core\\entity\\user_credential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B33207-EDD6-CF9B-D7BE-B04D9AD43234}|AppHub.Core\\AppHub.Core.csproj|solutionrelative:apphub.core\\entity\\user_credential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B33207-EDD6-CF9B-D7BE-B04D9AD43234}|AppHub.Core\\AppHub.Core.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.core\\dto\\usertypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B33207-EDD6-CF9B-D7BE-B04D9AD43234}|AppHub.Core\\AppHub.Core.csproj|solutionrelative:apphub.core\\dto\\usertypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B33207-EDD6-CF9B-D7BE-B04D9AD43234}|AppHub.Core\\AppHub.Core.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.core\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B33207-EDD6-CF9B-D7BE-B04D9AD43234}|AppHub.Core\\AppHub.Core.csproj|solutionrelative:apphub.core\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B33207-EDD6-CF9B-D7BE-B04D9AD43234}|AppHub.Core\\AppHub.Core.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.core\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B33207-EDD6-CF9B-D7BE-B04D9AD43234}|AppHub.Core\\AppHub.Core.csproj|solutionrelative:apphub.core\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.webapi\\resources\\sharedresource.hi-in.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|solutionrelative:apphub.webapi\\resources\\sharedresource.hi-in.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|c:\\users\\chinmaya\\apphubbackend\\apphub.webapi\\apphub.webapi\\resources\\sharedresource.en-us.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{86A6C9D1-8EE9-0FEF-1526-340E753A1B4C}|AppHub.WebApi\\AppHub.WebApi.csproj|solutionrelative:apphub.webapi\\resources\\sharedresource.en-us.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IdentityServerSetting.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\Config\\IdentityServerSetting.cs",
+              "RelativeDocumentMoniker": "AppHub.WebApi\\Config\\IdentityServerSetting.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\Config\\IdentityServerSetting.cs",
+              "RelativeToolTip": "AppHub.WebApi\\Config\\IdentityServerSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:58:49.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "AppHub.WebApi\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "AppHub.WebApi\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:59:07.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AppHub.WebApi\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AppHub.WebApi\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:02:18.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\Extensions\\ErrorDetails.cs",
+              "RelativeDocumentMoniker": "AppHub.WebApi\\Extensions\\ErrorDetails.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\Extensions\\ErrorDetails.cs",
+              "RelativeToolTip": "AppHub.WebApi\\Extensions\\ErrorDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:03:37.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-23T06:20:57.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-23T06:21:15.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LanguageService.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\Services\\LanguageService.cs",
+              "RelativeDocumentMoniker": "AppHub.WebApi\\Services\\LanguageService.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\Services\\LanguageService.cs",
+              "RelativeToolTip": "AppHub.WebApi\\Services\\LanguageService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:19:00.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "AppHub.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\Program.cs",
+              "RelativeToolTip": "AppHub.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:07:39.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HostingExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\HostingExtension.cs",
+              "RelativeDocumentMoniker": "AppHub.WebApi\\HostingExtension.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\HostingExtension.cs",
+              "RelativeToolTip": "AppHub.WebApi\\HostingExtension.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAswGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:04:35.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ValueObject.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.SharedKernel\\ValueObject.cs",
+              "RelativeDocumentMoniker": "AppHub.SharedKernel\\ValueObject.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.SharedKernel\\ValueObject.cs",
+              "RelativeToolTip": "AppHub.SharedKernel\\ValueObject.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAIwAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:41:02.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppHub.WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\AppHub.WebApi.csproj",
+              "RelativeDocumentMoniker": "AppHub.WebApi\\AppHub.WebApi.csproj",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\AppHub.WebApi.csproj",
+              "RelativeToolTip": "AppHub.WebApi\\AppHub.WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-19T09:06:22.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IgnoreMemberAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.SharedKernel\\IgnoreMemberAttribute.cs",
+              "RelativeDocumentMoniker": "AppHub.SharedKernel\\IgnoreMemberAttribute.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.SharedKernel\\IgnoreMemberAttribute.cs",
+              "RelativeToolTip": "AppHub.SharedKernel\\IgnoreMemberAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:40:54.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.SharedKernel\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "AppHub.SharedKernel\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.SharedKernel\\BaseEntity.cs",
+              "RelativeToolTip": "AppHub.SharedKernel\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:40:49.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseDomainEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.SharedKernel\\BaseDomainEvent.cs",
+              "RelativeDocumentMoniker": "AppHub.SharedKernel\\BaseDomainEvent.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.SharedKernel\\BaseDomainEvent.cs",
+              "RelativeToolTip": "AppHub.SharedKernel\\BaseDomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:40:41.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExternalHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.SharedKernel\\Utility\\ExternalHelper.cs",
+              "RelativeDocumentMoniker": "AppHub.SharedKernel\\Utility\\ExternalHelper.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.SharedKernel\\Utility\\ExternalHelper.cs",
+              "RelativeToolTip": "AppHub.SharedKernel\\Utility\\ExternalHelper.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAwOUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:39:30.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.SharedKernel\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "AppHub.SharedKernel\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.SharedKernel\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "AppHub.SharedKernel\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:39:23.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.SharedKernel\\Interfaces\\IReadRepository.cs",
+              "RelativeDocumentMoniker": "AppHub.SharedKernel\\Interfaces\\IReadRepository.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.SharedKernel\\Interfaces\\IReadRepository.cs",
+              "RelativeToolTip": "AppHub.SharedKernel\\Interfaces\\IReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:39:17.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IAggregateRoot.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.SharedKernel\\Interfaces\\IAggregateRoot.cs",
+              "RelativeDocumentMoniker": "AppHub.SharedKernel\\Interfaces\\IAggregateRoot.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.SharedKernel\\Interfaces\\IAggregateRoot.cs",
+              "RelativeToolTip": "AppHub.SharedKernel\\Interfaces\\IAggregateRoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:38:46.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StartupSetup.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Infrastructure\\StartupSetup.cs",
+              "RelativeDocumentMoniker": "AppHub.Infrastructure\\StartupSetup.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Infrastructure\\StartupSetup.cs",
+              "RelativeToolTip": "AppHub.Infrastructure\\StartupSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:36:34.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EfRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Infrastructure\\Data\\EfRepository.cs",
+              "RelativeDocumentMoniker": "AppHub.Infrastructure\\Data\\EfRepository.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Infrastructure\\Data\\EfRepository.cs",
+              "RelativeToolTip": "AppHub.Infrastructure\\Data\\EfRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:36:24.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AppHub.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AppHub.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:35:55.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Infrastructure\\Concrete\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "AppHub.Infrastructure\\Concrete\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Infrastructure\\Concrete\\PasswordHasher.cs",
+              "RelativeToolTip": "AppHub.Infrastructure\\Concrete\\PasswordHasher.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:33:49.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Infrastructure\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "AppHub.Infrastructure\\AutoMapper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Infrastructure\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "AppHub.Infrastructure\\AutoMapper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:33:17.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Infrastructure\\Abstract\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "AppHub.Infrastructure\\Abstract\\IPasswordHasher.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Infrastructure\\Abstract\\IPasswordHasher.cs",
+              "RelativeToolTip": "AppHub.Infrastructure\\Abstract\\IPasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:32:50.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ResultT.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Core\\Utility\\ResultT.cs",
+              "RelativeDocumentMoniker": "AppHub.Core\\Utility\\ResultT.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Core\\Utility\\ResultT.cs",
+              "RelativeToolTip": "AppHub.Core\\Utility\\ResultT.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:29:46.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Core\\Utility\\Result.cs",
+              "RelativeDocumentMoniker": "AppHub.Core\\Utility\\Result.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Core\\Utility\\Result.cs",
+              "RelativeToolTip": "AppHub.Core\\Utility\\Result.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:29:31.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationClaims.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Core\\Utility\\ApplicationClaims.cs",
+              "RelativeDocumentMoniker": "AppHub.Core\\Utility\\ApplicationClaims.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Core\\Utility\\ApplicationClaims.cs",
+              "RelativeToolTip": "AppHub.Core\\Utility\\ApplicationClaims.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:29:00.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApplicationUserRoleExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Core\\Enum\\ApplicationUserRoleExtensions.cs",
+              "RelativeDocumentMoniker": "AppHub.Core\\Enum\\ApplicationUserRoleExtensions.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Core\\Enum\\ApplicationUserRoleExtensions.cs",
+              "RelativeToolTip": "AppHub.Core\\Enum\\ApplicationUserRoleExtensions.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:24:12.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApplicationUserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Core\\Enum\\ApplicationUserRole.cs",
+              "RelativeDocumentMoniker": "AppHub.Core\\Enum\\ApplicationUserRole.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Core\\Enum\\ApplicationUserRole.cs",
+              "RelativeToolTip": "AppHub.Core\\Enum\\ApplicationUserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:24:07.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Core\\ApiResponse\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "AppHub.Core\\ApiResponse\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Core\\ApiResponse\\ApiResponse.cs",
+              "RelativeToolTip": "AppHub.Core\\ApiResponse\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:22:12.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AppHub.WebApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AppHub.WebApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAywCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:03:28.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AppHub.WebApi\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AppHub.WebApi\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:18:16.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "AppHub.WebApi\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "AppHub.WebApi\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAYwIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:02:53.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AppHub.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Infrastructure\\AppHub.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "AppHub.Infrastructure\\AppHub.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Infrastructure\\AppHub.Infrastructure.csproj",
+              "RelativeToolTip": "AppHub.Infrastructure\\AppHub.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-19T09:31:10.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AppHub.SharedKernel.csproj",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.SharedKernel\\AppHub.SharedKernel.csproj",
+              "RelativeDocumentMoniker": "AppHub.SharedKernel\\AppHub.SharedKernel.csproj",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.SharedKernel\\AppHub.SharedKernel.csproj",
+              "RelativeToolTip": "AppHub.SharedKernel\\AppHub.SharedKernel.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-19T09:09:09.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AppHub.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Core\\AppHub.Core.csproj",
+              "RelativeDocumentMoniker": "AppHub.Core\\AppHub.Core.csproj",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Core\\AppHub.Core.csproj",
+              "RelativeToolTip": "AppHub.Core\\AppHub.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-23T06:03:57.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\Extensions\\JwtService.cs",
+              "RelativeDocumentMoniker": "AppHub.WebApi\\Extensions\\JwtService.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\Extensions\\JwtService.cs",
+              "RelativeToolTip": "AppHub.WebApi\\Extensions\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwCkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:03:52.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ExceptionMiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "AppHub.WebApi\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "RelativeToolTip": "AppHub.WebApi\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:03:42.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\Extensions\\ServiceExtension.cs",
+              "RelativeDocumentMoniker": "AppHub.WebApi\\Extensions\\ServiceExtension.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\Extensions\\ServiceExtension.cs",
+              "RelativeToolTip": "AppHub.WebApi\\Extensions\\ServiceExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:04:16.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "HttpContextHelperExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Core\\Utility\\HttpContextHelperExtensions.cs",
+              "RelativeDocumentMoniker": "AppHub.Core\\Utility\\HttpContextHelperExtensions.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Core\\Utility\\HttpContextHelperExtensions.cs",
+              "RelativeToolTip": "AppHub.Core\\Utility\\HttpContextHelperExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:29:22.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "HttpContextHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Core\\Utility\\HttpContextHelper.cs",
+              "RelativeDocumentMoniker": "AppHub.Core\\Utility\\HttpContextHelper.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Core\\Utility\\HttpContextHelper.cs",
+              "RelativeToolTip": "AppHub.Core\\Utility\\HttpContextHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:29:11.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "AppHub.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\appsettings.json",
+              "RelativeToolTip": "AppHub.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-19T10:08:02.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AppHub.WebApi.http",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\AppHub.WebApi.http",
+              "RelativeDocumentMoniker": "AppHub.WebApi\\AppHub.WebApi.http",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\AppHub.WebApi.http",
+              "RelativeToolTip": "AppHub.WebApi\\AppHub.WebApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-03-19T10:08:51.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "sp_UserDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Core\\Entity\\sp_UserDetail.cs",
+              "RelativeDocumentMoniker": "AppHub.Core\\Entity\\sp_UserDetail.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Core\\Entity\\sp_UserDetail.cs",
+              "RelativeToolTip": "AppHub.Core\\Entity\\sp_UserDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:45:41.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Infrastructure\\Concrete\\UserService.cs",
+              "RelativeDocumentMoniker": "AppHub.Infrastructure\\Concrete\\UserService.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Infrastructure\\Concrete\\UserService.cs",
+              "RelativeToolTip": "AppHub.Infrastructure\\Concrete\\UserService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:35:11.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Infrastructure\\Abstract\\IUserService.cs",
+              "RelativeDocumentMoniker": "AppHub.Infrastructure\\Abstract\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Infrastructure\\Abstract\\IUserService.cs",
+              "RelativeToolTip": "AppHub.Infrastructure\\Abstract\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:33:00.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ResultStatusType.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Core\\Enum\\ResultStatusType.cs",
+              "RelativeDocumentMoniker": "AppHub.Core\\Enum\\ResultStatusType.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Core\\Enum\\ResultStatusType.cs",
+              "RelativeToolTip": "AppHub.Core\\Enum\\ResultStatusType.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:28:49.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ApplicationUserRoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Core\\Dto\\ApplicationUserRoleDto.cs",
+              "RelativeDocumentMoniker": "AppHub.Core\\Dto\\ApplicationUserRoleDto.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Core\\Dto\\ApplicationUserRoleDto.cs",
+              "RelativeToolTip": "AppHub.Core\\Dto\\ApplicationUserRoleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:22:28.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "User_Credential.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Core\\Entity\\User_Credential.cs",
+              "RelativeDocumentMoniker": "AppHub.Core\\Entity\\User_Credential.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Core\\Entity\\User_Credential.cs",
+              "RelativeToolTip": "AppHub.Core\\Entity\\User_Credential.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:23:47.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UserTypeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Core\\Dto\\UserTypeDto.cs",
+              "RelativeDocumentMoniker": "AppHub.Core\\Dto\\UserTypeDto.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Core\\Dto\\UserTypeDto.cs",
+              "RelativeToolTip": "AppHub.Core\\Dto\\UserTypeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:22:48.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Core\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "AppHub.Core\\Dto\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Core\\Dto\\UserDto.cs",
+              "RelativeToolTip": "AppHub.Core\\Dto\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:22:42.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "loginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Core\\Dto\\loginDto.cs",
+              "RelativeDocumentMoniker": "AppHub.Core\\Dto\\loginDto.cs",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.Core\\Dto\\loginDto.cs",
+              "RelativeToolTip": "AppHub.Core\\Dto\\loginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:22:36.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "SharedResource.hi-IN.resx",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\Resources\\SharedResource.hi-IN.resx",
+              "RelativeDocumentMoniker": "AppHub.WebApi\\Resources\\SharedResource.hi-IN.resx",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\Resources\\SharedResource.hi-IN.resx",
+              "RelativeToolTip": "AppHub.WebApi\\Resources\\SharedResource.hi-IN.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-03-19T09:18:57.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "SharedResource.en-US.resx",
+              "DocumentMoniker": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\Resources\\SharedResource.en-US.resx",
+              "RelativeDocumentMoniker": "AppHub.WebApi\\Resources\\SharedResource.en-US.resx",
+              "ToolTip": "C:\\Users\\Chinmaya\\AppHubBackend\\AppHub.WebApi\\AppHub.WebApi\\Resources\\SharedResource.en-US.resx",
+              "RelativeToolTip": "AppHub.WebApi\\Resources\\SharedResource.en-US.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-03-19T09:18:45.162Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

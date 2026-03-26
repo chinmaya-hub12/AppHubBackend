@@ -1,0 +1,22 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: apphub-config
+  namespace: apphub
+data:
+  ASPNETCORE_ENVIRONMENT: "Production"
+  ASPNETCORE_URLS: "http://+:80"
+  IdentityServerSettings__ApiName: "AppHub.WebApi"
+  IdentityServerSettings__Expiry: "60"
+  IdentityServerSettings__ValidIssuer: "https://apphub.yourdomain.com"
+  IdentityServerSettings__ValidAudience: "https://apphub.yourdomain.com"
+  CosmosDb__DatabaseName: "AppHubDb"
+  CosmosDb__AccountEndpoint: "https://YOUR_COSMOS_ACCOUNT.documents.azure.com:443/"
+  BlobStorage__AccountName: "YOUR_STORAGE_ACCOUNT_NAME"
+  BlobStorage__Containers__Documents: "apphub-documents"
+  BlobStorage__Containers__Exports: "apphub-exports"
+  BlobStorage__Containers__Avatars: "apphub-avatars"
+  BlobStorage__Containers__Backups: "apphub-backups"
+  AzureAd__Instance: "https://login.microsoftonline.com/"
+  AzureCommunicationServices__SenderEmail: "DoNotReply@YOUR_ACS_DOMAIN.azurecomm.net"
+  AllowedHosts: "*"

@@ -1,0 +1,31 @@
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Core\bin\Debug\net8.0\AppHub.Core.deps.json
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Core\bin\Debug\net8.0\AppHub.Core.dll
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Core\bin\Debug\net8.0\AppHub.Core.pdb
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Core\bin\Debug\net8.0\AppHub.SharedKernel.dll
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Core\bin\Debug\net8.0\AppHub.SharedKernel.pdb
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Core\obj\Debug\net8.0\AppHub.Core.csproj.AssemblyReference.cache
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Core\obj\Debug\net8.0\AppHub.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Core\obj\Debug\net8.0\AppHub.Core.AssemblyInfoInputs.cache
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Core\obj\Debug\net8.0\AppHub.Core.AssemblyInfo.cs
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Core\obj\Debug\net8.0\AppHub.Core.csproj.CoreCompileInputs.cache
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Core\obj\Debug\net8.0\AppHub.C.FA3A9060.Up2Date
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Core\obj\Debug\net8.0\AppHub.Core.dll
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Core\obj\Debug\net8.0\refint\AppHub.Core.dll
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Core\obj\Debug\net8.0\AppHub.Core.pdb
+C:\Users\Chinmaya\Downloads\AppHubBackend_Enhanced (4)\AppHubBackend_Enhanced\AppHub.WebApi\AppHub.Core\obj\Debug\net8.0\ref\AppHub.Core.dll
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Core\bin\Debug\net8.0\AppHub.Core.deps.json
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Core\bin\Debug\net8.0\AppHub.Core.dll
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Core\bin\Debug\net8.0\AppHub.Core.pdb
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Core\bin\Debug\net8.0\AppHub.SharedKernel.dll
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Core\bin\Debug\net8.0\AppHub.SharedKernel.pdb
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Core\obj\Debug\net8.0\AppHub.Core.csproj.AssemblyReference.cache
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Core\obj\Debug\net8.0\AppHub.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Core\obj\Debug\net8.0\AppHub.Core.AssemblyInfoInputs.cache
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Core\obj\Debug\net8.0\AppHub.Core.AssemblyInfo.cs
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Core\obj\Debug\net8.0\AppHub.Core.csproj.CoreCompileInputs.cache
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Core\obj\Debug\net8.0\AppHub.Core.sourcelink.json
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Core\obj\Debug\net8.0\AppHub.C.FA3A9060.Up2Date
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Core\obj\Debug\net8.0\AppHub.Core.dll
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Core\obj\Debug\net8.0\refint\AppHub.Core.dll
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Core\obj\Debug\net8.0\AppHub.Core.pdb
+C:\Users\Chinmaya\AppHubBackend\AppHub.WebApi\AppHub.WebApi\AppHub.Core\obj\Debug\net8.0\ref\AppHub.Core.dll
